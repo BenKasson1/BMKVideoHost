@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ag Sensor Documentation
+title:BMK 3D 360 Productions
 email: 10929499@live.mercer.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This documentation project demonstrates how a Jekyll project in the /docs folder
-  can be used to create a public documentation site in http://<account>.github.io/
+  This documentation project utilizes a Jekyll project in the /docs folder
+   to create a public documentation site in http://<account>.github.io/
 baseurl: "/DocumentationAg2" # the subpath of your site, e.g. /blog
-url: "http://BenKasson1.github.io/DocumentationAg2" # the base hostname & protocol for your site
+url: "http://BenKasson1.github.io/BMKVideoHost" # the base hostname & protocol for your site
 twitter_username: BenKasson
 github_username:  BenKasson1
 include: ['pages']

@@ -4,8 +4,7 @@ layout: default
 
 # Welcome To The Project
 
-The Ag Sensor documentation project tests the github pages documentation for a github repo.
-This site hosts all files and resources related to the **Agricultural Multi-Sensor Nodal Network with Mesh Network Wireless Communication Topology** project. 
+We will use this site to host files from the 3D 360 videos shot during a Mercer JMS Media Entrepreneurship 2017 course.
 
 *Below* are the design teams portfolios, click their names to learn more. *Above* to the upper right is the documentation for the various stages of project development. 
 

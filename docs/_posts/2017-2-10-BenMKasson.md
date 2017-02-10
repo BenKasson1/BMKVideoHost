@@ -13,7 +13,7 @@ permalink: /BMKResume/
 
 #### EDUCATION
 
-Mercer University, Macon GA				Graduating May 2017
+Mercer University, Macon GA,<br />				Graduating May 2017
 Working on Bachelors of Science in Technical Communications, Minor in Media Studies
 
 

@@ -1,71 +1,44 @@
 ---
 layout: post
-title: Faisal Aldhorgham
+title: Ben Kasson
 date: 2016-11-14 11:43:44 +0000
-permalink: /FaisalAldhorghamRsm/
+permalink: /BMKResume/
 ---
-### **FAISAL ALDHORGHAM**
-633 College Street ● Macon, GA 31201 ● 404-916-6032 ● faisal.aldhorgham@gmail.com
+### **Benjamin M Kasson**
+1345 Hardeman Ave, Macon-Bibb, GA 31201, (813)-920-2130
 
-#### OBJECTIVE
 
-Entry Level Electrical Engineering Position  
+#### Seeking a position in technical writing / multimedia
 
 
 #### EDUCATION
 
-M.S.E/B.S.E Specialization in Electrical Engineering  
-MERCER UNIVERSITY, Macon, GA  
-Expected, May 2017   
+Mercer University, Macon GA				Graduating May 2017
+Working on Bachelors of Science in Technical Communications, Minor in Media Studies
 
 
-#### Computer Skills  
-MS Office  
-AutoCAD  
-C++ Programming  
-Matlab
+#### Abilities	
+Objective oriented, confident public speaker; Experience in student organization leadership roles; Competent in Adobe products (photoshop, powerpoint, captivate, experience with dreamweaver); Certified in Hootsuite social media management tools; Wrote as a contributor to The Cluster student newspaper; Previous coding experience in C++, Python, Java, Ruby, and CSS/HTML; Excited to meet and build relationships with new people.
 
 
-#### Relevant Courses:  
-Linear Control  
-Electrical Fundamentals  
-Nonlinear Control  
-Feedback Control  
-Electronics I & II  
-Digital Logic  
-Signals & Systems  
-Comm System I & II  
-Engineering Economy	 	 
+#### Work Experience:
+### Mercer on Mission - South Korea: Jun - Jul 2016 	Student Educator
+English Second Language (ESL) teacher and curriculum contributor for a 14-20 year old North Korean refugees
+First Lego League Robotics instructor and curriculum contributor, used mindstorm robotics kits to further ESL curriculum through cooperative learning activities
+### MEEEP student org. president: 2015-2016 	Club Coordinator
+Led collaboration with Macon based non profit Real Impact, a STEM education after school program, whereby Mercer students worked with 10-14 year olds interested in topics relating to their science and engineering majors
+### Built a Prusa I3 3D Printer with SGA funding
+Participated in Mercer innovation center Next Big Idea competition, with the ‘University 3D printing resource center’ idea
+### Kumon Math & Reading Center: 2012-2014(Citrus Park FL)		Tutor
+Evaluated student work and gave positive feedback to improve performance in basic mathematics and english assignments
+Practiced office organization skills, filing worksheets based on student/performance, data entry into scoring program, and improvisational student/client management with coworkers.
 
 
-#### Related Projects:  
-Freshman Design Toothpick Bridge Competition: 
-- Cooperated on a team of 3 to design and construct a toothpick bridge 
-- Assembled and presented PDR designs to faculty and classmates
-- Constructed bridge utilizing design specifications and tested to breaking point to determine efficiency
-- Prepared and presented CDR which included test results and potential design Modifications to ameliorate efficiency 
+#### Activities + Honors + Other
+Worked with Habitat for Humanity on Deconstruction, a green urban blight demolition program.
+Fall 2015 Mercer Dean’s List
+Completed the 2012 Disney Marathon
+7 Year FFA (Future Farmers of America) member, state degree holder
+Experience in using Amazon Web Services, Github as well as Jekyll, Wordpress, and other web development tools.
+Experienced w/ Microsoft Office and Adobe products.
 
-AutoCAD Project:
-- Required to prepare and dimension component drawings.
-- Learned to cement integral AutoCAD techniques such as layers, sections, and dimensioning. 
-
-Contactless Electrical Energy Transmission (C.E.E.T) Research:
-- Working on a control circuit that will be used for a wireless charger project 
-- Building and soldering circuits in lab as well as running some tests on them
-- Conducting research on what type of resonant convert is best suitable for making a wireless charger 
-
-Flyback DC/DC Converter Project: 
-- Designed, Simulated and Tested a Flyback DC/DC Converter
-- Composed CDR as well as presented the entire experiment to faculty 
-
-#### VOLUNTEERISM:
-
-Muslim Students Association (MSA) Club:
-- Holding public relations position and helping Mercer University community to spread the awareness of Islam in every aspect through hosting events and activities.   
-
-International Bears Association (IBA) Club:
-- Getting to know students from all over the world and learn from their different perception 
-- Assisting new international students to get around quickly
-
-Institute of Electrical and Electronics Engineers (IEEE) Club:  
-- Participating and striving to experiment distinct activities such as soldering and building circuits

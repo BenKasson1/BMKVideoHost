@@ -4,7 +4,7 @@ title: About
 date: 2016-12-04 11:43:44 +0000
 permalink: /about/
 ---
-This site is meant to facilitate the ongoing documentation of the **BMK Media Production** Design project. The team's goal is to capture important settings and circumstances using the newest immersive media available. Currently the site is hosting the 360 video content filmed with the Insta 360 4k, edited via Adobe products, with additional footage and media provided by our collaborative partners and associates at **Deboer Video Production** and **Fountain Music**.
+This site is meant to facilitate the ongoing documentation of the **BMK Media Production** Design project. The team's goal is to capture important settings and circumstances using the newest immersive media available. Currently the site is hosting the 360 video content filmed with the Insta 360 4k, edited via Adobe products, with additional footage and media produced with our collaborative partners and associates at **Deboer Video Production** and **Fountain Music**.
 <br>
 **All the videos on this site were filmed on public property and are by no means infringing on the privacy of anyone. The nature of the videos is artistic and not for profit.**
 <br>

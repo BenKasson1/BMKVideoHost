@@ -7,13 +7,13 @@ layout: default
 We will use this site to host files from the 3D 360 videos shot during a Mercer JMS Media Entrepreneurship 2017 course.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N3t-qLYSpxw" frameborder="0" allowfullscreen></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/govZ_bD3GhE" frameborder="0" allowfullscreen></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NVUi94sYHQo" frameborder="0" allowfullscreen></iframe>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UAxBUUTZjnY" frameborder="0" allowfullscreen></iframe>
-
+<br>
 *Below* are the design teams portfolios, click their names to learn more. *Above* to the upper right is the documentation for the various stages of project development. 
 
 Lastly the **about** page describes the process for this site to be updated and maintained. 

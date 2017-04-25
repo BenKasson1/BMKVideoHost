@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Welcome To Ben Kasson's 360 Video Project
+# Project Home
+**Welcome To Ben Kasson's 360 Video Project**
 
 This site hosts files from my 3D 360 videos shot during a Mercer JMS Media Entrepreneurship 2017 course.
 
